@@ -1,0 +1,8 @@
+/* modules styling */
+.anchor {
+  background-color: aqua;
+  color: red;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
